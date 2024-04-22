@@ -92,4 +92,33 @@ n.
         - Simulated deadlock by making two threads try to access each other's locked resource.
         - Resolved deadlock by making both threads queue to process resources in same order.
 
+
+#### **Advanced Data Structures (Trees & Graphs)**N/A
+15. **Exercise 1: Implement a Balanced Binary Search Tree (AVL Tree)**N/A
+
+Objective: Design and implement an AVL Tree with insertion, deletion, and search functionalities.
+Description: Ensure the tree remains balanced through rotations and demonstrate efficient search and insertion operations.
+
+16. **Exercise 2: Utilize a Heap for Task Scheduling**N/A
+
+Objective: Implement a Min Heap to manage and execute tasks based on their priorities.
+Description: Design a priority queue using a Min Heap to schedule tasks efficiently.
+
+17. **Exercise 3: Build a Trie for Autocomplete Functionality**N/A
+
+Objective: Develop a Trie data structure for efficient prefix-based search.
+Description: Store a set of words in the Trie and implement search functionalities to support autocomplete features.
+
+18. **Exercise 4: Implement Depth-First Search (DFS) on a Graph**
+     - **Depth-First Search (DFS) on a Graph**:
+       - Used DFS to explore all nodes in a graph thoroughly.
+
+19. **Exercise 5: Find the Shortest Path with Dijkstra's Algorithm**
+    - **Dijkstra's Algorithm**:
+        -  Implemented Dijkstra's algorithm to find the shortest path between nodes in a weighted graph.
+
+20. **Exercise 6: Calculate Minimum Spanning Tree with Prim's Algorithm**N/A
+    - **Prim's Algorithm**:
+        - Use Prim's algorithm to find a minimum spanning tree that connects all nodes with minimal costs.
+
 ___
